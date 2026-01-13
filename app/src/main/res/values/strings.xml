@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AirQuality2</string>
+    <string name="location_information">Location Information</string>
+    <string name="loading_location_information">Loading location information...</string>
+    <string name="air_quality_status">Air Quality Status</string>
+    <string name="loading_aqi_status">Loading AQI status...</string>
+    <string name="detailed_air_quality_data">Detailed Air Quality Data</string>
+    <string name="loading_air_quality_data">Loading air quality data...</string>
+    <string name="save_city">Save City</string>
+    <string name="new_search">New Search</string>
+</resources>
